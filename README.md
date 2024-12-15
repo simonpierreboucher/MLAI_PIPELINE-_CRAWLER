@@ -59,7 +59,7 @@ Before you begin, ensure you have met the following requirements:
 2. **Create a Virtual Environment (Optional but Recommended)**
 
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    ```
 
 3. **Activate the Virtual Environment**
