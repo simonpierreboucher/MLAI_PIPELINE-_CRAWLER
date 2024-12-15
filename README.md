@@ -1,6 +1,10 @@
 # MLAI Pipeline Crawler
 
-![Crawler Banner](https://github.com/simonpierreboucher/MLAI_PIPELINE_CRAWLER/assets/your-image-url)
+![GitHub stars](https://img.shields.io/github/stars/simonpierreboucher/MLAI_PIPELINE_CRAWLER.svg?style=social&label=Star)
+![GitHub forks](https://img.shields.io/github/forks/simonpierreboucher/MLAI_PIPELINE_CRAWLER.svg?style=social&label=Fork)
+![GitHub issues](https://img.shields.io/github/issues/simonpierreboucher/MLAI_PIPELINE_CRAWLER.svg)
+![GitHub license](https://img.shields.io/github/license/simonpierreboucher/MLAI_PIPELINE_CRAWLER.svg)
+
 
 ## Table of Contents
 
